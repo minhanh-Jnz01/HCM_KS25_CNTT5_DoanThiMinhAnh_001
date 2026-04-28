@@ -13,7 +13,7 @@
         <mxCell id="4" value="Order_Detail&#xa;----------------&#xa;PK,FK order_id&#xa;PK,FK product_id&#xa;quantity&#xa;price_at_order" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="100" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Product&lt;br&gt;----------------&lt;br&gt;PK product_id&lt;br&gt;product_name&lt;br&gt;brand&lt;br&gt;price&lt;br&gt;stock" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5" value="Product&#xa;----------------&#xa;PK product_id&#xa;product_name&#xa;brand&#xa;price&#xa;stock_quantity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="300" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6" value="1 - N" style="endArrow=none;" parent="1" source="2" target="3" edge="1">
